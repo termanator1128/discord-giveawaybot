@@ -9,7 +9,7 @@
         "node" : ">=0.7.x"
     },
     "scripts" : {
-        "start" : "node start",
+        "start" : "node start.js",
         "test" : "node tests/test"
     },
     "dependencies" : {
